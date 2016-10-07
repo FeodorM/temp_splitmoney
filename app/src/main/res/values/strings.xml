@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SplitMoney</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_clear_list">Clear List</string>
+    <string name="action_split_money">Split Money!</string>
+    <string name="hint_edit_name">Mr. Robot</string>
+    <string name="hint_edit_amount">42</string>
+    <string name="title_activity_result">ResultActivity</string>
+</resources>
