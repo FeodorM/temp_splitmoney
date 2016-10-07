@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_aca67c79f0c1401dca04655a492e8f51c7733b3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_e58814baa39e0964754a219d601874d60261193f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_f72714e4012aaeafa002309d4837ce83a4a59c36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_81d31044f27fb27712bef54c2d2250eb4f753b86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="42fae0f80c3bf83414a39db619da467461102153">
+        <dex dex="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_96136b7ba2edd4865263bdb48fd75f4fc5b5fafe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_62332a5b1786d51eae6df61d9f5fe2cb54c23c50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_cad03219612d03153c06536316e241c2ffc0415d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98c14513f6c4e690e4817985e211acd5170d91af">
+        <dex dex="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d4431b3474b6932a1ec9f08191056ed69844a516/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_a26ec54b823f43f57a546b93ca8d1a5dac08804b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2d2c1fe48d20a7cd699bb32ee981b7c4670bec6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/satan/code/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_bb16afe7e4f9d986f73aa6b8969e5348f6748d87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2de1784e8a0bcc6328acc2f841827085202f034f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/satan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.4/8e25da5e31669f5acf514bdd99b94ff5c7003b3b/kotlin-runtime-1.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e25da5e31669f5acf514bdd99b94ff5c7003b3b">
+        <dex dex="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-runtime-1.0.4_b6447394430f25e359a3bfcc80703b3c4c23ca3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_5aa547eab41014b75c6b94b064a3551e3a3e57b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_6405a0be608286c08716a4e2400d21970dc8ff0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_85a435dd37c61b18433ee61789de651a1b01d97b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_0c4f4e76a29ea3ac5847ec5784d39f569a9868e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_fcf834d28794aa24eb9f6cc45acc1dbc880bf32b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c7fb1886cca52979343d80cf47810921b57b138c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/satan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.4/9c8d1a5d2eea3c9a7f58baa1a2fa11498cb41d0/kotlin-stdlib-1.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09c8d1a5d2eea3c9a7f58baa1a2fa11498cb41d0">
+        <dex dex="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-1.0.4_f8029c8d479f6a6074c1a2802c4043755eab1553/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/satan/code/AndroidStudioProjects/SplitMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_148162e505f0bc38d851648b9c3d1d07c9c8a48c/classes.dex" />
+    </item>
+
+</items>
